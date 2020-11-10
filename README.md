@@ -1,2 +1,1 @@
-# yufa.github.io
-# UESTC-passcard
+# passcard.io
